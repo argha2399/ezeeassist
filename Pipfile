@@ -1,0 +1,16 @@
+[[source]]
+url = "https://__token__:glpat-fpGkkpd-D9882rtVB5da@gitlab.com/api/v4/groups/14103307/-/packages/pypi/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+beautifulsoup4 = "==4.12.3"
+pandas = "==2.0.1"
+requests = "==2.32.3"
+tqdm = "==4.65.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.3"
